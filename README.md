@@ -1,5 +1,5 @@
 ## Oláá eu sou o Guilherme Bugallo! 
-#### Atualmente estou estudando Python para iniciar no mundo da programação!
+#### Atualmente estou estudando Python para iniciar no mundo da programação, visando CI/CD e automação!
 <div align="left">
  <a href="https://github.com/guibugallo">
  <!-- <img img width="48%" src="https://github-readme-stats.vercel.app/api?username=guibugallo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
