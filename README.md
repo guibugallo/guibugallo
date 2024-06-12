@@ -4,7 +4,7 @@
  <a href="https://github.com/guibugallo">
  <!-- <img img width="48%" src="https://github-readme-stats.vercel.app/api?username=guibugallo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
  -->
- <img img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibugallo&theme=shadow_red&hide_progress=true"/>
+ <img img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibugallo&theme=transparent&hide_progress=true"/>
 </div>
  
 <div style="display: inline_block"><br>
